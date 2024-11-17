@@ -7,7 +7,7 @@ programa de c++ de un mini market donde el usuario puede ver una lista de produc
 - Calcula y muestra el subtotal, el impuesto (IVU) y el total.
 
 ## How to use
-1. Compila el archivo `MiniMarket.cpp` usando un compilador de C++.
+1. Compila el archivo MiniMarket.cpp usando un compilador de C++.
 2. Ejecuta el programa.
 3. Sigue las instrucciones en pantalla para realizar compras y ver el total.
 
